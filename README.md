@@ -9,3 +9,4 @@
 *BATCH DURATION* : JANUARY 25TH,2025 to MARCH 10TH,2025
 
 OUTPUT :
+![Image](https://github.com/user-attachments/assets/c5e79203-230c-408c-bc18-0049746c511b)
